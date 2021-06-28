@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "Air Jordan 1",
+      "price": "299",
+      "type": "Basketball",
+      "brand": "Nike",
+      "id": 1
+    },
+    {
+      "name": "Ball",
+      "price": "89",
+      "type": "Football",
+      "brand": "Adidas",
+      "id": 2
+    }
+  ]
+}
